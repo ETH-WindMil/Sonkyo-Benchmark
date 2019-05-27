@@ -6,5 +6,11 @@ work for the Structural Health Monitoring (SHM) community. The blade is part of 
 ## Experimental Part
 
 
-
 ## Numerical Part
+
+
+## Cite as
+
+Ou, Y. and Tatsis, K. E. and Dertimanis, V. K. and Spiridonakos, M. D. and Chatzi, E. N. (2019) "Vibration-based monitoring of a small scale wind turbine blade under varying climate conditions: An experimental benchmark".
+
+Tatsis, K. E. and Ou, Y. and Dertimanis, V. K. and Spiridonakos, M. D. and Chatzi, E. N. (2019) "Vibration-based monitoring of a small scale wind turbine blade under varying climate conditions: A numerical benchmark".
