@@ -27,7 +27,62 @@ Upon submission and completion of a job named *Job_name*, the following result f
 
 **Modal analysis**
 
+<div style="margin-left:55px">
+<table>
+  <thead>
+      <tr>
+        <th align="left", width="160">File</th>
+        <th align="left", width="160">Field</th>
+        <th align="left", width="500">Description</th>
+      </tr>
+  </thead>
+  <body>
+      <tr>
+          <td rowspan=2, valign="top"> <i>Job_name</i>.mat </td>
+          <td> frequencies </td>
+          <td> ... </td>
+      </tr>
+      <tr>
+          <td> modes </td>
+          <td> ... </td>
+      </tr>
+  </tbody>
+</table>
+</div>
+
 **Dynamic analysis**
+
+<div style="margin-left:55px">
+<table>
+  <thead>
+      <tr>
+        <th align="left", width="160">File</th>
+        <th align="left", width="160">Field</th>
+        <th align="left", width="500">Description</th>
+      </tr>
+  </thead>
+  <body>
+      <tr>
+          <td rowspan=4, valign="top"> <i>Job_name</i>.mat </td>
+          <td> time </td>
+          <td> ... </td>
+      </tr>
+      <tr>
+          <td> strains </td>
+          <td> ... </td>
+      </tr>
+      <tr>
+          <td> displacements </td>
+          <td> ... </td>
+      </tr>
+      <tr>
+          <td> accelerations </td>
+          <td> ... </td>
+      </tr>
+  </tbody>
+</table>
+</div>
+
 
 ## Cite as
 
