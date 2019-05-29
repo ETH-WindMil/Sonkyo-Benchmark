@@ -21,6 +21,14 @@ Clone the repository using
 git clone https://github.com/ETH-WindMil/Sonkyo-Benchmark ~/Sonkyo-Benchmark
 ```
 
+### Results
+
+Upon submission and completion of a job named *Job_name*, the following result files are generated, depending on the type of analysis:
+
+**Modal analysis**
+
+**Dynamic analysis**
+
 ## Cite as
 
 Ou, Y. and Tatsis, K. E. and Dertimanis, V. K. and Spiridonakos, M. D. and Chatzi, E. N. (2019) "Vibration-based monitoring of a small scale wind turbine blade under varying climate conditions: An experimental benchmark".
