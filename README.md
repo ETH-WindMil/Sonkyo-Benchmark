@@ -11,7 +11,7 @@ work for the Structural Health Monitoring (SHM) community. The blade is part of 
 
 In this numerical part, a Finite Element (FE) model of the Windspot 3.5kW blade is constructed with the aim of supplementing the experimental work with a physical model exposed to diverse operational conditions, loading scenarios and damage patterns that are not easily explorable and controllable in the laboratory.
 
-A detailed description of the numerical model and the underlying assumptions, as well as the spectrum of operational conditions, the measured quantities and the wind load model is offered in the paper.
+A detailed description of the numerical model and the underlying assumptions, as well as the spectrum of operational conditions, the measured quantities and the wind load model is offered in the [paper](https://github.com/ETH-WindMil/Sonkyo-Benchmark), which also serves as the manual for the Matlab application.
 
 ### Getting started
 
