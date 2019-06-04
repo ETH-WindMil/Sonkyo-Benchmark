@@ -15,7 +15,7 @@ A detailed description of the numerical model and the underlying assumptions, as
 
 ### Getting started
 
-Clone the repository using
+Pull down a copy of the code by downloading or cloning the repository
 
 ```
 git clone https://github.com/ETH-WindMil/Sonkyo-Benchmark ~/Sonkyo-Benchmark
