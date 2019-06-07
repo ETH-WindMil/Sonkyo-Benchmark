@@ -16,9 +16,9 @@ work for the Structural Health Monitoring (SHM) community. The blade is part of 
   </thead>
   <body>
       <tr>
-          <td height="5", align="center"> <sub> R </sub> </td>
-          <td height="5", colspan=3> <sub> Healthy state </sub> </td>
-          <td height="5", align="center"> <sub> 21 per temperature per set-up </sub> </td>
+          <td height="2", align="center"> <sub> R </sub> </td>
+          <td height="2", colspan=3> <sub> Healthy state </sub> </td>
+          <td height="2", align="center"> <sub> 21 per temperature per set-up </sub> </td>
       </tr>
       <tr>
           <td align="center"> <sub> A </sub> </td>
