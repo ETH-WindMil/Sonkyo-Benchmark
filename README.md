@@ -5,95 +5,95 @@ work for the Structural Health Monitoring (SHM) community. The blade is part of 
 
 ## Experimental Part
 
-<div style="margin-left:105px">
+<div style="margin-left:105px;font-size:20px">
 <table>
   <thead>
       <tr>
-        <th align="center", width="120"> Case label </th>
-        <th colspan=3, align="left", width="570"> Description </th>
-        <th align="center", width="240"> Number of experiments </th>
+        <th align="center", width="90"> <sub> Case label </sub> </th>
+        <th colspan=3, align="left", width="410"> <sub> Description </sub> </th>
+        <th align="center", width="190"> <sub> Number of experiments </sub> </th>
       </tr>
   </thead>
   <body>
       <tr>
-          <td align="center"> R </td>
-          <td colspan=3> Healthy state </td>
-          <td align="center"> 21 per temperature per set-up </td>
+          <td height="5", align="center"> <sub> R </sub> </td>
+          <td height="5", colspan=3> <sub> Healthy state </sub> </td>
+          <td height="5", align="center"> <sub> 21 per temperature per set-up </sub> </td>
       </tr>
       <tr>
-          <td align="center"> A </td>
-          <td colspan=3> Added mass 1 x 44 gr </td>
-          <td align="center"> 6 per temperature per set-up </td>
+          <td align="center"> <sub> A </sub> </td>
+          <td colspan=3> <sub> Added mass 1 x 44 gr </sub> </td>
+          <td align="center"> <sub> 6 per temperature per set-up </sub> </td>
       </tr>
       <tr>
-          <td align="center"> B </td>
-          <td colspan=3> Added mass 2 x 44 gr </td>
-          <td align="center"> 6 per temperature per set-up </td>
+          <td align="center"> <sub> B </sub> </td>
+          <td colspan=3> <sub> Added mass 2 x 44 gr </sub> </td>
+          <td align="center"> <sub> 6 per temperature per set-up </sub> </td>
       </tr>
       <tr>
-          <td align="center"> C </td>
-          <td colspan=3> Added mass 3 x 44 gr </td>
-          <td align="center"> 6 per temperature per set-up </td>
+          <td align="center"> <sub> C </sub> </td>
+          <td colspan=3> <sub> Added mass 3 x 44 gr </sub> </td>
+          <td align="center"> <sub> 6 per temperature per set-up </sub> </td>
       </tr>
       <tr>
-          <td align="center"> D </td>
-          <td colspan=3> Crack 1: l1 = 5 cm </td>
-          <td align="center"> 6 per temperature per set-up </td>
+          <td align="center"> <sub> D </sub> </td>
+          <td colspan=3> <sub> Crack 1: l1 = 5 cm </sub> </td>
+          <td align="center"> <sub> 6 per temperature per set-up </sub> </td>
       </tr>
       <tr>
-          <td align="center"> E </td>
-          <td> Crack 1: l1 = 5 cm, </td> 
-          <td colspan=2> Crack 2: l2 = 5 cm </td>
-          <td align="center"> 6 per temperature per set-up </td>
+          <td align="center"> <sub> E </sub> </td>
+          <td> <sub> Crack 1: l1 = 5 cm, </sub> </td> 
+          <td colspan=2> <sub> Crack 2: l2 = 5 cm </sub> </td>
+          <td align="center"> <sub> 6 per temperature per set-up </sub> </td>
       </tr>
       <tr>
-          <td align="center"> F </td>
-          <td> Crack 1: l1 = 5 cm, </td>
-          <td> Crack 2: l2 = 5 cm, </td>
-          <td> Crack 3: l3 = 5 cm </td>
-          <td align="center"> 6 per temperature per set-up </td>
+          <td align="center"> <sub> F </sub> </td>
+          <td> <sub> Crack 1: l1 = 5 cm, </sub> </td>
+          <td> <sub> Crack 2: l2 = 5 cm, </sub> </td>
+          <td> <sub> Crack 3: l3 = 5 cm </sub> </td>
+          <td align="center"> <sub> 6 per temperature per set-up </sub> </td>
       </tr>
       <tr>
-          <td align="center"> G </td>
-          <td> Crack 1: l1 = 10 cm, </td>
-          <td> Crack 2: l2 = 5 cm, </td>
-          <td> Crack 3: l3 = 5 cm </td>
-          <td align="center"> 6 per temperature per set-up </td>
+          <td align="center"> <sub> G </sub> </td>
+          <td> <sub> Crack 1: l1 = 10 cm, </sub> </td>
+          <td> <sub> Crack 2: l2 = 5 cm, </sub> </td>
+          <td> <sub> Crack 3: l3 = 5 cm </sub> </td>
+          <td align="center"> <sub> 6 per temperature per set-up </sub> </td>
       </tr>
       <tr>
-          <td align="center"> H </td>
-          <td> Crack 1: l1 = 10 cm, </td>
-          <td> Crack 2: l2 = 10 cm, </td>
-          <td> Crack 3: l3 = 5 cm </td>
-          <td align="center"> 6 per temperature per set-up </td>
+          <td align="center"> <sub> H </sub> </td>
+          <td> <sub> Crack 1: l1 = 10 cm, </sub> </td>
+          <td> <sub> Crack 2: l2 = 10 cm, </sub> </td>
+          <td> <sub> Crack 3: l3 = 5 cm </sub> </td>
+          <td align="center"> <sub> 6 per temperature per set-up </sub> </td>
       </tr>
       <tr>
-          <td align="center"> I </td>
-          <td> Crack 1: l1 = 10 cm, </td>
-          <td> Crack 2: l2 = 10 cm, </td>
-          <td> Crack 3: l3 = 10 cm </td>
-          <td align="center"> 6 per temperature per set-up </td>
+          <td align="center"> <sub> I </sub> </td>
+          <td> <sub> Crack 1: l1 = 10 cm, </sub> </td>
+          <td> <sub> Crack 2: l2 = 10 cm, </sub> </td>
+          <td> <sub> Crack 3: l3 = 10 cm </sub> </td>
+          <td align="center"> <sub> 6 per temperature per set-up </sub> </td>
       </tr>
       <tr>
-          <td align="center"> J </td>
-          <td> Crack 1: l1 = 15 cm, </td>
-          <td> Crack 2: l2 = 5 cm, </td>
-          <td> Crack 3: l3 = 5 cm </td>
-          <td align="center"> 6 per temperature per set-up </td>
+          <td align="center"> <sub> J </sub> </td>
+          <td> <sub> Crack 1: l1 = 15 cm, </sub> </td>
+          <td> <sub> Crack 2: l2 = 5 cm, </sub> </td>
+          <td> <sub> Crack 3: l3 = 5 cm </sub> </td>
+          <td align="center"> <sub> 6 per temperature per set-up </sub> </td>
       </tr>
       <tr>
-          <td align="center"> K </td>
-          <td> Crack 1: l1 = 15 cm, </td>
-          <td> Crack 2: l2 = 15 cm, </td>
-          <td> Crack 3: l3 = 5 cm </td>
-          <td align="center"> 6 per temperature per set-up </td>
+          <td align="center"> <sub> K </sub> </td>
+          <td> <sub> Crack 1: l1 = 15 cm, </sub> </td>
+          <td> <sub> Crack 2: l2 = 15 cm, </sub> </td>
+          <td> <sub> Crack 3: l3 = 5 cm </sub> </td>
+          <td align="center"> <sub> 6 per temperature per set-up </sub> </td>
       </tr>
       <tr>
-          <td align="center"> L </td>
-          <td> Crack 1: l1 = 15 cm, </td>
-          <td> Crack 2: l2 = 15 cm, </td>
-          <td> Crack 3: l3 = 15 cm </td>
-          <td align="center"> 6 per temperature per set-up </td>
+          <td align="center"> <sub> L </sub> </td>
+          <td> <sub> Crack 1: l1 = 15 cm, </sub> </td>
+          <td> <sub> Crack 2: l2 = 15 cm, </sub> </td>
+          <td> <sub> Crack 3: l3 = 15 cm </sub> </td>
+          <td align="center"> <sub> 6 per temperature per set-up </sub> </td>
       </tr>
   </tbody>
 </table>
