@@ -10,8 +10,8 @@ work for the Structural Health Monitoring (SHM) community. The blade is part of 
   <thead>
       <tr>
         <th align="center", width="120"> Case label </th>
-        <th colspan=3, align="left", width="550"> Description </th>
-        <th align="center", width="250"> Number of experiments </th>
+        <th colspan=3, align="left", width="570"> Description </th>
+        <th align="center", width="240"> Number of experiments </th>
       </tr>
   </thead>
   <body>
