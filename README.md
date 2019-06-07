@@ -6,6 +6,30 @@ work for the Structural Health Monitoring (SHM) community. The blade is part of 
 ## Experimental Part
 
 
+<div style="margin-left:55px">
+<table>
+  <thead>
+      <tr>
+        <th align="center", width="120"> Case label </th>
+        <th align="left", width="400"> Description </th>
+        <th align="center", width="300"> Number of experiments </th>
+      </tr>
+  </thead>
+  <body>
+      <tr>
+          <td align="center"> R </td>
+          <td> Healthy state </td>
+          <td align="center"> 21 per temperature per set-up </td>
+      </tr>
+      <tr>
+          <td align="center"> A </td>
+          <td> Added mass 1 x 44 gr </td>
+          <td align="center"> 6 per temperature per set-up </td>
+      </tr>
+  </tbody>
+</table>
+</div>
+
 
 ## Numerical Part
 
