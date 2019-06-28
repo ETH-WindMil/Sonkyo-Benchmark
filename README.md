@@ -1,9 +1,11 @@
 # Sonkyo-Benchmark
 
 Sonkyo-Benchmark is a vibration-based study of a small-scale wind turbine (WT) blade, with the aim of establishing a benchmark
-work for the Structural Health Monitoring (SHM) community. The blade is part of the Windspot 3.5kW WT, provided by Sonkyo Energy, and is tested both experimentally and numerically in healthy and damaged states, under varying environmental and operational conditions.
+work for the Structural Health Monitoring (SHM) community. The blade under consideration is part of the Windspot 3.5kW WT, provided by Sonkyo Energy, and is tested both experimentally and numerically in healthy and damaged states, under varying environmental and operational conditions.
 
 ## Experimental Part
+
+A detailed documentation of the experimental set-up, including the types of deployed sensors, the nature of excitation as well as the investigated damage scenarios and environmental variations is provided in the [paper](https://github.com/ETH-WindMil/Sonkyo-Benchmark).
 
 <div style="margin-left:105px;font-size:20px">
 <table>
