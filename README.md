@@ -7,6 +7,7 @@ work for the Structural Health Monitoring (SHM) community. The blade under consi
 
 In the experimental part of this project, a specimen of the Windspot 3.5kW WT blade is tested in a climate chamber under controlled temperature and humidity conditions. Apart from the initially healthy state, the vibration-based assessment of the blade is carried out for two distinct families of damaged states. The first one attempts to simualte icing accretion by adhering a set of lumped masses on specific locations while the second group is focused on the investigation of cracks with varying characteristics, which are physically introduced on the structure as surface cuts. This results in 3 scenarios with added mass and a combination of 9 cracked scenarios, with each case tested under varying temperature conditions, from -15<sup>o</sup>C to +40<sup>o</sup>C using a step of 5<sup>o</sup>C. A detailed documentation of the experimental set-up, including the types of deployed sensors, the nature of excitation as well as the investigated damage scenarios and environmental variations is provided in the experimental [paper](https://github.com/ETH-WindMil/Sonkyo-Benchmark).
 
+<details><summary> Test cases </summary>
 
 <div style="margin-left:105px;font-size:20px">
 <table>
@@ -101,6 +102,8 @@ In the experimental part of this project, a specimen of the Windspot 3.5kW WT bl
   </tbody>
 </table>
 </div>
+
+</details>
 
 
 ## Numerical Part
