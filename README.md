@@ -5,7 +5,10 @@ work for the Structural Health Monitoring (SHM) community. The blade under consi
 
 ## Experimental Part
 
-A detailed documentation of the experimental set-up, including the types of deployed sensors, the nature of excitation as well as the investigated damage scenarios and environmental variations is provided in the [paper](https://github.com/ETH-WindMil/Sonkyo-Benchmark).
+A detailed documentation of the experimental set-up, including the types of deployed sensors, the nature of excitation as well as the investigated damage scenarios and environmental variations is provided in the experimental [paper](https://github.com/ETH-WindMil/Sonkyo-Benchmark).
+
+Apart from the initially healthy state, the experimental specimen is tested under two distinct families of damaged states. The first one attempts to simualte icing accretion by adhering a set of lumped masses on specific locations while the second group is focused on the investigation of cracks with varying characteristics, which are physically introduced on the structure as surface cuts. This results in 3 scenarios with added mass and a combination of 9 cracked scenarios, with each case tested under varying temperature conditions, from -15<sup>o</sup>C to +40<sup>o</sup>C using a step of 5<sup>o</sup>C.
+
 
 <div style="margin-left:105px;font-size:20px">
 <table>
@@ -106,7 +109,7 @@ A detailed documentation of the experimental set-up, including the types of depl
 
 In this numerical part, a Finite Element (FE) model of the Windspot 3.5kW blade is constructed with the aim of supplementing the experimental work with a physical model exposed to diverse operational conditions, loading scenarios and damage patterns that are not easily explorable and controllable in the laboratory.
 
-A detailed description of the numerical model and the underlying assumptions, as well as the spectrum of operational conditions, the measured quantities and the wind load model is offered in the [paper](https://github.com/ETH-WindMil/Sonkyo-Benchmark), which also serves as the manual for the Matlab application.
+A detailed description of the numerical model and the underlying assumptions, as well as the spectrum of operational conditions, the measured quantities and the wind load model is offered in the numerical [paper](https://github.com/ETH-WindMil/Sonkyo-Benchmark), which also serves as the manual for the Matlab application.
 
 ### Getting started
 
