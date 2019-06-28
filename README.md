@@ -1,13 +1,11 @@
 # Sonkyo-Benchmark
 
 Sonkyo-Benchmark is a vibration-based study of a small-scale wind turbine (WT) blade, with the aim of establishing a benchmark
-work for the Structural Health Monitoring (SHM) community. The blade under consideration is part of the Windspot 3.5kW WT, provided by Sonkyo Energy, and is tested both experimentally and numerically in healthy and damaged states, under varying environmental and operational conditions.
+work for the Structural Health Monitoring (SHM) community. The blade under consideration is part of the Windspot 3.5kW WT, provided by Sonkyo Energy, and is tested both **experimentally** and **numerically** in healthy and damaged states, under varying environmental and operational conditions.
 
 ## Experimental Part
 
-A detailed documentation of the experimental set-up, including the types of deployed sensors, the nature of excitation as well as the investigated damage scenarios and environmental variations is provided in the experimental [paper](https://github.com/ETH-WindMil/Sonkyo-Benchmark).
-
-Apart from the initially healthy state, the experimental specimen is tested under two distinct families of damaged states. The first one attempts to simualte icing accretion by adhering a set of lumped masses on specific locations while the second group is focused on the investigation of cracks with varying characteristics, which are physically introduced on the structure as surface cuts. This results in 3 scenarios with added mass and a combination of 9 cracked scenarios, with each case tested under varying temperature conditions, from -15<sup>o</sup>C to +40<sup>o</sup>C using a step of 5<sup>o</sup>C.
+In the experimental part of this project, a specimen of the Windspot 3.5kW WT blade is tested in a climate chamber under controlled temperature and humidity conditions. Apart from the initially healthy state, the vibration-based assessment of the blade is carried out for two distinct families of damaged states. The first one attempts to simualte icing accretion by adhering a set of lumped masses on specific locations while the second group is focused on the investigation of cracks with varying characteristics, which are physically introduced on the structure as surface cuts. This results in 3 scenarios with added mass and a combination of 9 cracked scenarios, with each case tested under varying temperature conditions, from -15<sup>o</sup>C to +40<sup>o</sup>C using a step of 5<sup>o</sup>C. A detailed documentation of the experimental set-up, including the types of deployed sensors, the nature of excitation as well as the investigated damage scenarios and environmental variations is provided in the experimental [paper](https://github.com/ETH-WindMil/Sonkyo-Benchmark).
 
 
 <div style="margin-left:105px;font-size:20px">
