@@ -198,7 +198,7 @@ Upon submission and completion of a job named *Job_name*, the following result f
 
 Ou, Y. and Tatsis, K. E. and Dertimanis, V. K. and Spiridonakos, M. D. and Chatzi, E. N. (2019) "Vibration-based monitoring of a small scale wind turbine blade under varying climate conditions: An experimental benchmark".
 
-Tatsis, K. E. and Ou, Y. and Dertimanis, V. K. and Spiridonakos, M. D. and Chatzi, E. N. (2019) "Vibration-based monitoring of a small scale wind turbine blade under varying climate conditions: A numerical benchmark".
+Tatsis, K. E. and Ou, Y. and Dertimanis, V. K. and Spiridonakos, M. D. and Chatzi, E. N. (2019) "Vibration-based monitoring of a small scale wind turbine blade under varying climate and operational conditions: A numerical benchmark".
 
 ## Found a Bug?
 
