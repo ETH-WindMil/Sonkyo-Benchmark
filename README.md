@@ -28,6 +28,7 @@ In the experimental part of this project, a specimen of the Windspot 3.5kW WT bl
 
   <div style="margin-left:105px;font-size:20px">
   <table>
+    <caption> List of experimental cases and number of tests conducted for each case </caption>
     <thead>
         <tr>
           <th align="center", width="90"> <sub> Case label </sub> </th>
