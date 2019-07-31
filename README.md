@@ -14,7 +14,7 @@ In the experimental part of this project, a specimen of the Windspot 3.5kW WT bl
 
 
 <details> <summary> Experimental set-up </summary>
-  ![alt text](https://github.com/ETH-WindMil/Sonkyo-Benchmark/blob/master/figures/Experimental_set_up.png)
+  <img src="https://github.com/ETH-WindMil/Sonkyo-Benchmark/blob/master/figures/Experimental_set_up.png">
 </details>
 
 
