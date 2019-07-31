@@ -10,8 +10,9 @@ In the experimental part of this project, a specimen of the Windspot 3.5kW WT bl
 
 <details> <summary> Sensors layout </summary>
   <figure>
-    <img title="Sensor configuration on (top) the tested specimen and (bottom) the specimen for temperature compensation"  src="https://github.com/ETH-WindMil/Sonkyo-Benchmark/blob/master/figures/Sensor_configuration.png">
+    <img title="Sensor configuration on the tested specimen (top) and on the specimen for temperature compensation (bottom)"  src="https://github.com/ETH-WindMil/Sonkyo-Benchmark/blob/master/figures/Sensor_configuration.png">
     <figcaption> Sensor configuration on (top) the tested specimen and (bottom) the specimen for temperateure compensation. </figcaption>
+  </figure>
 </details>
 
 
