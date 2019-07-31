@@ -18,7 +18,7 @@ In the experimental part of this project, a specimen of the Windspot 3.5kW WT bl
 
 <details> <summary> Experimental set-up </summary>
   <figure>
-    <img src="https://github.com/ETH-WindMil/Sonkyo-Benchmark/blob/master/figures/Experimental_set_up.png">
+    <img src="https://github.com/ETH-WindMil/Sonkyo-Benchmark/blob/master/figures/Experimental_set_up.png" style="width:100%">
     <figcaption> <b> Fig. 2. </b> (a) overview of the experimental set-up in the climate chamber; (b) climate controller; (c) shaker with insulation foam box; (d) strain gauges s1 and s2 on low-pressure side; (e) strain gauges s23 and s24 on high pressure side; (f) climate sensor; (g) cracks 1 and 2; (h) crack 3. </figcaption>
   </figure>
 </details>
