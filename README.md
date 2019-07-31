@@ -11,13 +11,16 @@ In the experimental part of this project, a specimen of the Windspot 3.5kW WT bl
 <details> <summary> Sensors layout </summary>
   <figure>
     <img title="Sensor configuration on the tested specimen (top) and on the specimen for temperature compensation (bottom)"  src="https://github.com/ETH-WindMil/Sonkyo-Benchmark/blob/master/figures/Sensor_configuration.png">
-    <figcaption> Sensor configuration on (top) the tested specimen and (bottom) the specimen for temperateure compensation. </figcaption>
+    <figcaption> <b> Fig. 1. </b> Sensor configuration on the tested specimen (top) and on the specimen for temperateure compensation (bottom). </figcaption>
   </figure>
 </details>
 
 
 <details> <summary> Experimental set-up </summary>
-  <img src="https://github.com/ETH-WindMil/Sonkyo-Benchmark/blob/master/figures/Experimental_set_up.png">
+  <figure>
+    <img src="https://github.com/ETH-WindMil/Sonkyo-Benchmark/blob/master/figures/Experimental_set_up.png">
+    <figcaption> <b> Fig. 2. </b> (a) overview of the experimental set-up in the climate chamber; (b) climate controller; (c) shaker with insulation foam box; (d) strain gauges s1 and s2 on low-pressure side; (e) strain gauges s23 and s24 on high pressure side; (f) climate sensor; (g) cracks 1 and 2; (h) crack 3. </figcaption>
+  </figure>
 </details>
 
 
