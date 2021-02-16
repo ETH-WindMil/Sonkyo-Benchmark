@@ -88,7 +88,7 @@ Upon submission and completion of a job named *Job_name*, the following result f
 
 Ou, Y. and Tatsis, K. E. and Dertimanis, V. K. and Spiridonakos, M. D. and Chatzi, E. N. "Vibration-based monitoring of a small scale wind turbine blade under varying climate conditions. Part I: An experimental benchmark". Struct Control Health Monit. 2020;e2660. https://doi.org/10.1002/stc.2660
 
-Tatsis, K. E. and Ou, Y. and Dertimanis, V. K. and Spiridonakos, M. D. and Chatzi, E. N. "Vibration-based monitoring of a small scale wind turbine blade under varying climate and operational conditions. Part II: A numerical benchmark". Struct Control Health Monit. 2021
+Tatsis, K. E. and Ou, Y. and Dertimanis, V. K. and Spiridonakos, M. D. and Chatzi, E. N. "Vibration-based monitoring of a small scale wind turbine blade under varying climate and operational conditions. Part II: A numerical benchmark". Accepted for publication in the Journal Struct Control Health Monit.
 
 ## Found a Bug?
 
