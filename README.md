@@ -5,7 +5,7 @@ work for the Structural Health Monitoring (SHM) community. The blade under consi
 
 ## Part I - Experimental study
 
-In the experimental part of this project, a specimen of the Windspot 3.5kW WT blade is tested in a climate chamber under controlled temperature and humidity conditions. The vibration-based assessment of the blade is carried out for a number of damaged states under varying temperature conditions between -15<sup>o</sup>C to +40<sup>o</sup>C. A detailed documentation of the experimental set-up, including the types of deployed sensors, the nature of excitation as well as the investigated damage scenarios and environmental variations is provided in the experimental [paper](https://github.com/ETH-WindMil/Sonkyo-Benchmark), while the entire dataset is made available via [Zenodo](https://zenodo.org/record/3229743#.XR-VRHUzbwo).
+In the experimental part of this project, a specimen of the Windspot 3.5kW WT blade is tested in a climate chamber under controlled temperature and humidity conditions. The vibration-based assessment of the blade is carried out for a number of damaged states under varying temperature conditions between -15<sup>o</sup>C to +40<sup>o</sup>C. A detailed documentation of the experimental set-up, including the types of deployed sensors, the nature of excitation as well as the investigated damage scenarios and environmental variations is provided in the experimental [paper](https://doi.org/10.1002/stc.2660), while the entire dataset is made available via [Zenodo](https://zenodo.org/record/3229743#.XR-VRHUzbwo).
 
 ## Part II - Numerical study
 
