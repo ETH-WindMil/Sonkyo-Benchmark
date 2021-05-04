@@ -90,6 +90,10 @@ Ou, Y. and Tatsis, K. E. and Dertimanis, V. K. and Spiridonakos, M. D. and Chatz
 
 Tatsis, K. E. and Ou, Y. and Dertimanis, V. K. and Spiridonakos, M. D. and Chatzi, E. N. "Vibration-based monitoring of a small scale wind turbine blade under varying climate and operational conditions. Part II: A numerical benchmark". Struct Control Health Monit. 2021; 28:e2734. https://doi.org/10.1002/stc.2734
 
+## About current version
+
+The current version 0.2 contains only the user-interface which is not connected to the numerical model. Version 1.0 is to be released soon and will contain the final numerical model, as documented in Part II.
+
 ## Found a Bug?
 
 If you think you've found a bug, go ahead and create a new [GitHub issue](https://help.github.com/en/articles/creating-an-issue). Be sure to include as much information as possible so that we can reproduce the bug.
