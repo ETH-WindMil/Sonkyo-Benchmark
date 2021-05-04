@@ -11,7 +11,7 @@ In the experimental part of this project, a specimen of the Windspot 3.5kW WT bl
 
 In this numerical part, a Finite Element (FE) model of the Windspot 3.5kW blade is constructed with the aim of supplementing the experimental work with a physical model exposed to diverse operational conditions, loading scenarios and damage patterns that are not easily explorable and controllable in the laboratory.
 
-A detailed description of the numerical model and the underlying assumptions, as well as the spectrum of operational conditions, the measured quantities and the wind load model is offered in the numerical [paper](https://github.com/ETH-WindMil/Sonkyo-Benchmark), which also serves as the manual for the Matlab application.
+A detailed description of the numerical model and the underlying assumptions, as well as the spectrum of operational conditions, the measured quantities and the wind load model is offered in the numerical [paper](https://doi.org/10.1002/stc.2734), which also serves as the manual for the Matlab application.
 
 ### Getting started
 
@@ -86,9 +86,9 @@ Upon submission and completion of a job named *Job_name*, the following result f
 
 ## Cite as
 
-Ou, Y. and Tatsis, K. E. and Dertimanis, V. K. and Spiridonakos, M. D. and Chatzi, E. N. "Vibration-based monitoring of a small scale wind turbine blade under varying climate conditions. Part I: An experimental benchmark". Struct Control Health Monit. 2020;e2660. https://doi.org/10.1002/stc.2660
+Ou, Y. and Tatsis, K. E. and Dertimanis, V. K. and Spiridonakos, M. D. and Chatzi, E. N. "Vibration-based monitoring of a small scale wind turbine blade under varying climate conditions. Part I: An experimental benchmark". Struct Control Health Monit. 2021; 28:e2660. https://doi.org/10.1002/stc.2660
 
-Tatsis, K. E. and Ou, Y. and Dertimanis, V. K. and Spiridonakos, M. D. and Chatzi, E. N. "Vibration-based monitoring of a small scale wind turbine blade under varying climate and operational conditions. Part II: A numerical benchmark". Accepted for publication in the Journal Struct Control Health Monit.
+Tatsis, K. E. and Ou, Y. and Dertimanis, V. K. and Spiridonakos, M. D. and Chatzi, E. N. "Vibration-based monitoring of a small scale wind turbine blade under varying climate and operational conditions. Part II: A numerical benchmark". Struct Control Health Monit. 2021; 28:e2734. https://doi.org/10.1002/stc.2734
 
 ## Found a Bug?
 
